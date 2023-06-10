@@ -48,9 +48,9 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 logging = logging.getLogger()
 
-API_ID = 10___
-API_HASH = "93_____"
-BOT_TOKEN = "55___"
+API_ID = 105
+API_HASH = "93"
+BOT_TOKEN = "5626"
 
 
 bot = Client(
@@ -61,9 +61,9 @@ bot = Client(
  
     )
 
-auth_users = [5__]
+auth_users = [56373]
 sudo_users = auth_users
-sudo_groups = [-100___]
+sudo_groups = [-1003663]
     
 
 shell_usage = f"**USAGE:** Executes terminal commands directly via bot.\n\n<pre>/shell pip install requests</pre>"
