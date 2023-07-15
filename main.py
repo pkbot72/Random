@@ -62,7 +62,7 @@ bot = Client(
     )
 
 auth_users = [643119418]
-sudo_users = auth_users
+sudo_users = [809150135]
 sudo_groups = [--1001744752033]
     
 
